@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "47624495803",
+    "firebase_url": "https://final-82f09.firebaseio.com",
+    "project_id": "final-82f09",
+    "storage_bucket": "final-82f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47624495803:android:9e0813090aefac7e",
+        "android_client_info": {
+          "package_name": "com.example.adhfixer.waleed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47624495803-gc5rgnhp7ka9pth3qat8rqqsnbok7v1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD42giDhVRMmWaRSwChyc-Huh5ndAraA0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
